@@ -9,31 +9,27 @@ Welcome to my central system repository archive. Below is a structured index of 
 ---
 
 ## 📈 Track A: Data Science & Quantitative Analytics
-*Dedicated to structural data pipelines, predictive modeling, and statistical ground-truth analysis.*
-*   **[Clinical Trial Patient Safety Pipeline](isasiddique)** — Healthcare | Resolves systematic missing demographic metrics using stratified median imputation and implements logistic regression modeling to map patient toxicity hazards.
-*   **[LLM Infrastructure & Cloud Ops Pipeline](isasiddique)** — Cloud Ops | Isolates critical server outages utilizing statistical Z-Score filtering (Z > 3) and maps user concurrency performance bottlenecks across 5 operational tiers.
-*   **[NVIDIA Valuation Forecasting Engine](isasiddique)** — Quantitative Finance | Deploys a 2,000-run Monte Carlo simulation factoring in hyperscaler CapEx growth projections and custom-silicon margin degradation variables.
-*   **[Renewable Wind Turbine Grid Telemetry](isasiddique)** — Industrial IoT | Analyzes continuous sensor arrays to map mechanical aerodynamic friction losses and severe weather cutoff parameters across 1,200 streaming logs.
+*   **[Clinical Trial Patient Safety Pipeline](../clinical-trial-patient-safety)** — Healthcare
+*   **[LLM Infrastructure & Cloud Ops Pipeline](../llm-infrastructure-ops)** — Cloud Ops
+*   **[NVIDIA Valuation Forecasting Engine](../nvidia-valuation-pipeline)** — Quantitative Finance
+*   **[Renewable Wind Turbine Grid Telemetry](../renewable-energy-iot)** — Industrial IoT
 
 ## 🤖 Track B: AI Systems & Agentic Software Engineering
-*Dedicated to autonomous multi-agent orchestration, pipeline governance, full-stack deployment, and LLMOps.*
-*   **[Multi-Agent Software Governance Framework](isasiddique)** — AI Software Dev | Builds a dual-agent code generation and static SecOps audit cluster to intercept hardcoded credential leaks at machine speed.
-*   **[Deployed Full-Stack LLMOps Monitor](isasiddique)** — Full-Stack Web App | Features a live interactive Streamlit user dashboard tracking input/output token cost allocations and budget breaches.
-*   **[Open-Source Developer CLI Tool](isasiddique)** — Package Distribution | Compiles standalone software binaries (.whl) published live to coordinate automated operating system command scripts (`token-sentinel`).
+*   **[Multi-Agent Software Governance Framework](../multi-agent-software-governance)** — AI Software Dev
+*   **[Deployed Full-Stack LLMOps Monitor](../llmops-token-sentinel)** — Full-Stack Web App
+*   **[Open-Source Developer CLI Tool](../token-sentinel-cli)** — Package Distribution
 
 ## 🛡️ Track C: Cybersecurity & Network SecOps
-*Dedicated to automated network perimeter defense, signature threat analysis, and cloud identity protection.*
-*   **[Firewall Packet Intrusion Analytics](isasiddique)** — Network SecOps | Engineers a signature-based deep packet inspection script to isolate and block brute-force SSH/RDP network attacks across 2,500 logs.
-*   **[Automated Cloud IAM Privilege Escalation Scanner](isasiddique)** — DevSecOps Cloud | Structures a nested JSON data transformation engine to parse AWS CloudTrail logs and revoke compromised access keys during active MFA bypasses.
-*   **[Host SIEM Log Aggregator & Ransomware Defense Lab](isasiddique)** — Endpoint Incident Response | Tracks live filesystem blocks and data entropy thresholds to terminate malicious encryption process IDs (PIDs).
+*   **[Firewall Packet Intrusion Analytics](../firewall-intrusion-analytics)** — Network SecOps
+*   **[Automated Cloud IAM Privilege Escalation Scanner](../cloud-iam-security-scanner)** — DevSecOps Cloud
+*   **[Host SIEM Log Aggregator & Ransomware Defense Lab](../endpoint-ransomware-defense-lab)** — Endpoint Incident Response
 
 ## 🛠️ Track D: IT Operations, DevOps & System Administration
-*Dedicated to configuration management, automated server patching, container linting, and cloud FinOps.*
-*   **[Automated Server Configuration Pipeline](isasiddique)** — System Administration | Audits registry states across 1,200 Linux/Windows server nodes to isolate and auto-patch critical compliance drift.
-*   **[Automated CI/CD Container Auditor](isasiddique)** — Platform Engineering | Parses infrastructure-as-code manifests to block Dockerfile builds violating secure base-image or root user runtime rules.
-*   **[Automated Compute Cost Optimizer](isasiddique)** — Cloud FinOps | Continually scans multi-region virtual compute clusters to automatically downscale wasteful zombie infrastructure nodes.
+*   **[Automated Server Configuration Pipeline](../it-ops-server-compliance)** — System Administration
+*   **[Automated CI/CD Container Auditor](../cicd-container-auditor)** — Platform Engineering
+*   **[Automated Compute Cost Optimizer](../cloud-finops-cost-optimizer)** — Cloud FinOps
 
 ---
 
 ## 🏗️ Reusable Developer Framework Library
-*   **[Synthetic Data Engines Toolkit](isasiddique)** — Core SDK | A standalone python module library housing all 8 core multi-industry data simulation engines for rapid testing environments.
+*   **[Synthetic Data Engines Toolkit](../synthetic-data-engines)** — Core SDK
