@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 👨‍💻 Public Innovation Lab & Enterprise System Architecture Portfolio
-**Author:** [Your Name] | **Qualifications:** M.S. in Information Technology & Software Engineering Background
+**Author:** Isa Siddique | **Qualifications:** M.S. in Information Technology & Software Engineering Background
 **Core Tech Stacks:** Python, Streamlit Full-Stack UI, DevOps CI/CD Automation, Cloud Security Architecture, Deep Packet Inspection
 
 Welcome to my central system repository archive. Below is a structured index of my enterprise-grade technical builds, custom-engineered with realistic system data friction, missing metrics, and infrastructure anomalies to test production resilience. 
