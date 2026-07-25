@@ -34,6 +34,9 @@ Open all Links by opening them in a new tab. Thank You!
 *   **[Automated CI/CD Container Auditor](https://github.com/isasiddique/cicd_container_auditor)** — Platform Engineering | Parses infrastructure-as-code manifests to block Dockerfile builds violating secure base-image or root user runtime rules.
 *   **[Automated Compute Cost Optimizer](https://github.com/isasiddique/cloud_finops_cost_optimizer)** — Cloud FinOps | Continually scans multi-region virtual compute clusters to automatically downscale wasteful zombie infrastructure nodes.
 
+## ☁️ Track E: Cloud Architecture & Vertex AI MLOps Infrastructure
+*Dedicated to large-scale distributed cloud systems, automated pipeline architecture, and production model environments.*
+*   **[Google Vertex AI Automated Pipeline](https://github.com/isasiddique/vertex_ai_pipeline_automation)** — Cloud Infrastructure | Programms an asynchronous state-machine verification loop to process infrastructure changes, promoting stable models to live clusters while automatically executing circuit-breaker rollbacks during SLA breaches.
 ---
 
 ## 🏗️ Reusable Developer Framework Library
