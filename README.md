@@ -44,6 +44,8 @@ Open all Links by opening them in a new tab. Thank You!
 *   **[Automated CI/CD Container Auditor](https://github.com/isasiddique/cicd_container_auditor)** — Platform Engineering | Parses infrastructure-as-code manifests to block Dockerfile builds violating secure base-image or root user runtime rules.
 *   **[Automated Compute Cost Optimizer](https://github.com/isasiddique/cloud_finops_cost_optimizer)** — Cloud FinOps | Continually scans multi-region virtual compute clusters to automatically downscale wasteful zombie infrastructure nodes.
 *   **[Multi-Region Cluster Performance Monitor](https://github.com/isasiddique/multi_region_cluster_monitor)** — Full-Stack Web App | Features a live interactive Streamlit platform dashboard running multi-cloud hypervisor load streams, utilizing an autonomous Zeta Agent cluster to isolate processing bottlenecks and trigger automated horizontal pod auto-scaling scripts during resource exhaustion breaches.
+*   **[Automated System Rollback & Recovery Engine](https://github.com/isasiddique/system_rollback_recovery_engine)** — System Administration | Programms an object-oriented configuration compliance linter across 1,500 multi-platform cloud nodes, utilizing an autonomous Zeta Agent infrastructure drift actuator to isolate system mutations and execute automated baseline state rollbacks during compliance breaches.
+
 
 
 ## ☁️ Track E: Cloud Architecture & Vertex AI MLOps Infrastructure
