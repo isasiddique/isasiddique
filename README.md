@@ -51,6 +51,17 @@ Open all Links by opening them in a new tab. Thank You!
 ## ☁️ Track E: Cloud Architecture & Vertex AI MLOps Infrastructure
 *Dedicated to large-scale distributed cloud systems, automated pipeline architecture, and production model environments.*
 *   **[Google Vertex AI Automated Pipeline](https://github.com/isasiddique/vertex_ai_pipeline_automation)** — Cloud Infrastructure | Programms an asynchronous state-machine verification loop to process infrastructure changes, promoting stable models to live clusters while automatically executing circuit-breaker rollbacks during SLA breaches.
+
+
+
+## 📐 Track F: Linear Algebra & ML Optimization Formulas
+*Dedicated to hand-writing raw mathematical matrix calculus and GPU gradient descent execution logic.*
+
+
+## ☁️ Track G: Cloud Architecture & Vertex AI MLOps Infrastructure
+*Dedicated to large-scale distributed cloud systems, automated pipeline architecture, and production model environments.*
+
+
 ---
 
 ## 🏗️ Reusable Developer Framework Library
