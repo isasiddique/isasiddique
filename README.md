@@ -15,6 +15,8 @@ Open all Links by opening them in a new tab. Thank You!
 *   **[LLM Infrastructure & Cloud Ops Pipeline](https://github.com/isasiddique/llm-infrastructure-ops)** — Cloud Ops | Isolates critical server outages utilizing statistical Z-Score filtering (Z > 3) and maps user concurrency performance bottlenecks across 5 operational tiers.
 *   **[NVIDIA Valuation Forecasting Engine](https://github.com/isasiddique/nvidia_valuation_pipeline)** — Quantitative Finance | Deploys a 2,000-run Monte Carlo simulation factoring in hyperscaler CapEx growth projections and custom-silicon margin degradation variables.
 *   **[Renewable Wind Turbine Grid Telemetry](https://github.com/isasiddique/renewable_energy_iot)** — Industrial IoT | Analyzes continuous sensor arrays to map mechanical aerodynamic friction losses and severe weather cutoff parameters across 1,200 streaming logs.
+*   **[Advanced Predictive Calibration Engine](https://github.com)** — Quantitative Analytics | Programms an automated grid search matrix to optimize multi-variable system engineering configurations, utilizing an autonomous Trion Agent to evaluate R-squared statistical coefficients and push real-time parameter tuning updates.
+
 
 ## 🤖 Track B: AI Systems & Agentic Software Engineering
 *Dedicated to autonomous multi-agent orchestration, pipeline governance, full-stack deployment, and LLMOps.*
