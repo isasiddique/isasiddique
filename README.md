@@ -32,6 +32,8 @@ Open all Links by opening them in a new tab. Thank You!
 *   **[Automated Cloud IAM Privilege Escalation Scanner](https://github.com/isasiddique/cloud_iam_security_scanner)** — DevSecOps Cloud | Structures a nested JSON data transformation engine to parse AWS CloudTrail logs and revoke compromised access keys during active MFA bypasses.
 *   **[Host SIEM Log Aggregator & Ransomware Defense Lab](https://github.com/isasiddique/firewall_intrusion_analytics)** — Endpoint Incident Response | Tracks live filesystem blocks and data entropy thresholds to terminate malicious encryption process IDs (PIDs).
 *   **[Active Directory Privilege Escalation Auditor](https://github.com/isasiddique/active_directory_graph_auditor/tree/main)** — Identity Security | Deploys a recursive tree-traversal algorithm to map nested group inheritances, utilizing a specialized Sentinel, Orion, and Omega multi-agent cluster to isolate hidden lateral movement paths and enforce zero-trust ACL patches at machine speed.
+*   **[Honeypot Threat Intelligence Aggregator](https://github.com/isasiddique/honeypot_threat_intelligence)** — Network SecOps | Deploys an automated regex parsing engine to extract malicious indicators of compromise (IoCs) from 3,500 unstructured honeypot streams, utilizing a coordinated Onyx and Sentinel agent cluster to inject real-time firewall ACL blocklists during active perimeter intrusions.
+
 
 
 ## 🛠️ Track D: IT Operations, DevOps & System Administration
