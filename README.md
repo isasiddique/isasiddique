@@ -24,6 +24,8 @@ Open all Links by opening them in a new tab. Thank You!
 *   **[Deployed Full-Stack LLMOps Monitor](https://github.com/isasiddique/lllmops_token_sentinel)** — Full-Stack Web App | Features an active interactive Streamlit user dashboard tracking input/output token cost allocations and budget breaches.
 *   **[Open-Source Developer CLI Tool](https://github.com/isasiddique/token_sentinel_cli)** — Package Distribution | Compiles standalone software binaries (.whl) published live to coordinate automated operating system command scripts (`token-sentinel`).
 *   **[Live Multi-Agent Log Analyzer Framework](https://github.com/isasiddique/live_multi_agent_analyzer/tree/main)** — Full-Stack Web App | Features a live interactive Streamlit user dashboard running in-memory stream processing, utilizing an asynchronous Onyx Agent cluster to compute rolling Z-scores and trigger automated token-bucket rate limiters during infrastructure bottlenecks.
+*   **[Autonomous Multi-Agent Agentic RAG Engine](https://github.com/isasiddique/agentic_rag_engine)** — AI Software Engineering | Coordinates an autonomous context retrieval-augmented generation pipeline across 1,500 corporate text strings, utilizing an autonomous Onyx Agent semantic routing loop to evaluate similarity thresholds and execute automated database optimizations during hallucination breaches.
+
 
 
 ## 🛡️ Track C: Cybersecurity & Network SecOps
