@@ -41,6 +41,8 @@ Open all Links by opening them in a new tab. Thank You!
 *   **[Automated Server Configuration Pipeline](https://github.com/isasiddique/it_ops_server_compliance/tree/main)** — System Administration | Audits registry states across 1,200 Linux/Windows server nodes to isolate and auto-patch critical compliance drift.
 *   **[Automated CI/CD Container Auditor](https://github.com/isasiddique/cicd_container_auditor)** — Platform Engineering | Parses infrastructure-as-code manifests to block Dockerfile builds violating secure base-image or root user runtime rules.
 *   **[Automated Compute Cost Optimizer](https://github.com/isasiddique/cloud_finops_cost_optimizer)** — Cloud FinOps | Continually scans multi-region virtual compute clusters to automatically downscale wasteful zombie infrastructure nodes.
+*   **[Multi-Region Cluster Performance Monitor](https://github.com)** — Full-Stack Web App | Features a live interactive Streamlit platform dashboard running multi-cloud hypervisor load streams, utilizing an autonomous Zeta Agent cluster to isolate processing bottlenecks and trigger automated horizontal pod auto-scaling scripts during resource exhaustion breaches.
+
 
 ## ☁️ Track E: Cloud Architecture & Vertex AI MLOps Infrastructure
 *Dedicated to large-scale distributed cloud systems, automated pipeline architecture, and production model environments.*
