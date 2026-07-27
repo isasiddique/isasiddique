@@ -58,6 +58,7 @@ Open all Links by opening them in a new tab. Thank You!
 *Dedicated to hand-writing raw mathematical matrix calculus and GPU gradient descent execution logic.*
 *   **[Custom Matrix SVD Transformation Engine](https://github.com/isasiddique/matrix_svd_optimization_engine)** — Optimization Math | Deploys a raw NumPy Singular Value Decomposition (SVD) algorithm to compress 2,500 high-dimensional asset matrices, utilizing an autonomous Colossus Agent memory downscaler to isolate residual variance values and execute low-rank matrix data transformations at machine speed.
 *   **[Stochastic Gradient Descent with Momentum](https://github.com/isasiddique/sgd_momentum_optimizer)** — Optimization Math | Deploys a raw NumPy Stochastic Gradient Descent (SGD) algorithm mapping calculus partial derivatives across 3,000 system state vectors, utilizing an autonomous Colossus Agent to monitor optimization variables and trigger real-time velocity momentum burst overrides during local minima bottlenecks.
+*   **[Cosine Similarity Hyperplane Classifier](https://github.com/isasiddique/hyperplane_similarity_classifier)** — Optimization Math | Programms a raw NumPy vector dot-product engine to calculate angular distance boundaries across 4,500 multi-dimensional embedding metrics, utilizing an autonomous Colossus Agent to monitor spatial variations and trigger automated unaligned data pool isolation routines during semantic drift breaches.
 
 
 
