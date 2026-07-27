@@ -56,7 +56,7 @@ Open all Links by opening them in a new tab. Thank You!
 
 ## 📐 Track F: Linear Algebra & ML Optimization Formulas
 *Dedicated to hand-writing raw mathematical matrix calculus and GPU gradient descent execution logic.*
-*   **[Project 26: Custom Matrix SVD Transformation Engine](https://github.com/isasiddique/matrix_svd_optimization_engine)** — Optimization Math | Deploys a raw NumPy Singular Value Decomposition (SVD) algorithm to compress 2,500 high-dimensional asset matrices, utilizing an autonomous Colossus Agent memory downscaler to isolate residual variance values and execute low-rank matrix data transformations at machine speed.
+*   **[Custom Matrix SVD Transformation Engine](https://github.com/isasiddique/matrix_svd_optimization_engine)** — Optimization Math | Deploys a raw NumPy Singular Value Decomposition (SVD) algorithm to compress 2,500 high-dimensional asset matrices, utilizing an autonomous Colossus Agent memory downscaler to isolate residual variance values and execute low-rank matrix data transformations at machine speed.
 
 
 
