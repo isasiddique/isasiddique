@@ -56,13 +56,13 @@ Open all Links by opening them in a new tab. Thank You!
 
 ## 📐 Track F: Linear Algebra & ML Optimization Formulas
 *Dedicated to hand-writing raw mathematical matrix calculus and GPU gradient descent execution logic.*
+
+
+
+## 🧠 Track G: AI Research & Quantitative R&D
+*Dedicated to abstract machine learning mathematics, transformer analysis, and algorithmic optimization proofs.*
 *   **[Transformer Attention Mechanism Stress-Tester](https://github.com/isasiddique/transformer_attention_stress_tester)** — AI Research | Deploys a transformer attention simulation script to analyze positional token embedding decay across 3,000 deep context windows, utilizing an autonomous Colossus Agent to monitor model retrieval fidelity and trigger real-time hyperparameter adjustments during information retrieval dropouts.
-
-
-## ☁️ Track G: Cloud Architecture & Vertex AI MLOps Infrastructure
-*Dedicated to large-scale distributed cloud systems, automated pipeline architecture, and production model environments.*
-
-
+*   **[RLHF Reward Model Stabilization Engine](https://github.com/isasiddique/rlhf_reward_stabilizer)** — AI Research | Programms a cross-entropy loss tracking script to balance 4,000 high-variance human preference ratings, utilizing an autonomous Colossus Agent to monitor optimization variables and trigger real-time reward clipping parameters during training model divergences.
 ---
 
 ## 🏗️ Reusable Developer Framework Library
