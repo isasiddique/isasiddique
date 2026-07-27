@@ -56,6 +56,7 @@ Open all Links by opening them in a new tab. Thank You!
 
 ## 📐 Track F: Linear Algebra & ML Optimization Formulas
 *Dedicated to hand-writing raw mathematical matrix calculus and GPU gradient descent execution logic.*
+*   **[Transformer Attention Mechanism Stress-Tester](https://github.com/isasiddique/transformer_attention_stress_tester)** — AI Research | Deploys a transformer attention simulation script to analyze positional token embedding decay across 3,000 deep context windows, utilizing an autonomous Colossus Agent to monitor model retrieval fidelity and trigger real-time hyperparameter adjustments during information retrieval dropouts.
 
 
 ## ☁️ Track G: Cloud Architecture & Vertex AI MLOps Infrastructure
