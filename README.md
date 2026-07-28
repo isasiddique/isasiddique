@@ -52,6 +52,7 @@ Open all Links by opening them in a new tab. Thank You!
 *Dedicated to large-scale distributed cloud systems, automated pipeline architecture, and production model environments.*
 *   **[Google Vertex AI Automated Pipeline](https://github.com/isasiddique/vertex_ai_pipeline_automation)** — Cloud Infrastructure | Programms an asynchronous state-machine verification loop to process infrastructure changes, promoting stable models to live clusters while automatically executing circuit-breaker rollbacks during SLA breaches.
 *   **[Streaming Ingestion with Pub/Sub & Dataflow](https://github.com/isasiddique/streaming_pubsub_dataflow_pipeline)** — Cloud Infrastructure | Architects an enterprise-grade cloud streaming data ingestion pipeline to parse 4,000 message packets per second, utilizing an autonomous Zeta Agent infrastructure actuator to evaluate network latencies and trigger automated Google Cloud Dataflow worker auto-scaling scripts during ingestion spikes.
+*   **[Petabyte-Scale Warehousing with BigQuery Optimization](https://github.com/isasiddique/bigquery_warehouse_optimization)** — Cloud Infrastructure | Programms an automated data engineering tracking script to optimize columnar storage metrics across 5,000 distributed warehouse log registries, utilizing an autonomous Zeta Agent to evaluate query plan scanning bounds and trigger real-time table partitioning and clustering overrides during cloud billing breaches.
 
 
 
