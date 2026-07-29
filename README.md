@@ -79,4 +79,4 @@ Open all Links by opening them in a new tab. Thank You!
 ---
 
 ## 🏗️ Reusable Developer Framework Library
-*   **[Synthetic Data Engines Toolkit](https://github.com/isasiddique/synthetic_data_engines)** — Core SDK | A standalone python module library housing all 8 core multi-industry data simulation engines for rapid testing environments.
+*   **[Synthetic Data Engines Toolkit](https://github.com/isasiddique/synthetic_data_engines)** — Core SDK | A standalone python module library housing all 7 core multi-industry data simulation engines for rapid testing environments.
